@@ -1,0 +1,14 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "uniplugin_wifi",
+          "class": "com.pys.wifilibrary.OneModel"
+        }
+      ]
+    }
+  ]
+}

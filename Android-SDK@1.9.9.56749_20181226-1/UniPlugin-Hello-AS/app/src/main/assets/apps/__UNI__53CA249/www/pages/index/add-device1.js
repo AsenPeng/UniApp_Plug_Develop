@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"flex-center{ text-align: center; }\nwx-navigator{ border: 1px solid #323232; width: 60%; padding: ",[0,10]," 0; margin: auto; border-radius: ",[0,60],"; color: #888; text-align: center; margin-top: ",[0,280],"; }\n",],undefined,{path:"./pages/index/add-device1.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/add-device1.wxml') } }));
